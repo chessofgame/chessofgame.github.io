@@ -10,7 +10,7 @@ body {
 }
 .navigation {
 	margin-top: 20px;
-	margin-right: 10%;
+	margin-right: 40px;
 }
 
 .content {
@@ -51,10 +51,20 @@ img {
 	background-color: #312e2b;
 }
 
+.nav {
+	margin-top: 50px;
+	margin-right: 15px;
+}
+
 .navigation2 {
 	margin-right: 30%
 }
 .navigation2 .btn{
 	background-color:#bfbfbf;
 	color: black;
+}
+
+.openings {
+	margin-left: 10px;
+	margin-right: 1px;
 }
