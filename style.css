@@ -25,6 +25,13 @@ body {
 	margin-right: 5%;
 }
 
+.content2 {
+	margin-top: 40px;
+	margin-left: -1%;
+	margin-right: 4%
+}
+
+
 h4 {
 	margin-bottom: 3%;
 }
@@ -38,4 +45,16 @@ h4 {
 img {
 	margin-right:1%;
 	margin-bottom: 1%;
+}
+
+.navigation2 .list-group-item {
+	background-color: #312e2b;
+}
+
+.navigation2 {
+	margin-right: 30%
+}
+.navigation2 .btn{
+	background-color:#bfbfbf;
+	color: black;
 }
