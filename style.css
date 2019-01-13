@@ -1,0 +1,30 @@
+h1 {
+	font: Helvetica, Arial;
+}
+
+body {
+	background-color: #312e2b;
+	margin-left:10%;
+	margin-top: 20px;
+	color:white;
+}
+.navigation {
+	margin-top: 20px;
+	margin-right: 10%;
+}
+
+.content {
+	margin-top: 40px;
+	margin-left: -1%;
+	margin-right:20%;
+}
+
+h4 {
+	margin-bottom: 3%;
+}
+
+.footer {
+	margin-top: 5%;
+	margin-right: 10%;
+	font:normal 13px Arial !important;
+}
