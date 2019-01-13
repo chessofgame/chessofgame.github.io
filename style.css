@@ -63,7 +63,16 @@ img {
 	color: black;
 }
 
+.opa{
+	animation: fade 2s;
+    opacity:2;
+}
 .openings {
 	margin-left: 10px;
 	margin-right: 1px;
+}
+@keyframes fade {
+  0%,100% { opacity: 0 }
+  50% { opacity: 1 }
+  100% { opacity: 2 }
 }
