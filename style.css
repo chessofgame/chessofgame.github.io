@@ -74,6 +74,7 @@ img {
 .openings {
 	margin-left: 10px;
 	margin-right: 1px;
+	display: flex;
 }
 @keyframes fade {
   0%,100% { opacity: 0 }
